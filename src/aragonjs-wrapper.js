@@ -6,7 +6,7 @@ import Aragon, {
   setupTemplates,
   isNameUsed,
   ensResolve,
-} from '@aragon/wrapper'
+} from '@espresso-org/aragon-wrapper-sign'
 import {
   appOverrides,
   sortAppsPair,
